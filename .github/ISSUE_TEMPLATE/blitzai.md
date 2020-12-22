@@ -10,7 +10,7 @@ assignees: ''
 **Project name**
 What is the name of your proposed project?
 
-**Project type***
+**Project type**
   - [ ] method development
   - [ ] application
   - [ ] both
@@ -21,7 +21,7 @@ This project is about ...
 **Which unsolved question does it address?**
 This project solves ...
 
-**Major categorization***
+**Major categorization**
   - [ ] supervised learning
   - [ ] unsupervised learning
   - [ ] something else (please describe)
@@ -40,3 +40,4 @@ Imagining you were working on this alone and full-time.
   - [ ] paper
   - [ ] both
   - [ ] something else (please describe)
+  
