@@ -1,2 +1,2 @@
-# precpred
-Precision Prediction
+# blitzAI
+lightning-fast AI development
