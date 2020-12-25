@@ -26,6 +26,12 @@ This project solves ...
   - [ ] unsupervised learning
   - [ ] something else (please describe)
 
+**What is the stage of the data?**
+  - [ ] not available
+  - [ ] needs to be processed (e.g. features from nifti)
+  - [ ] ready to use features
+  - [ ] something else (please describe)
+
 **Which software/libraries are needed?**
   - [ ] Python
   - [ ] R
